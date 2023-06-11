@@ -2,7 +2,7 @@
     "env" : {
         "DB_USER" : "pradeepbe592",
         "DB_PASSWORD": "kXTrN9p7sbHIvavi",
-        "DB_NAME": "mern",
+        "DB_NAME": "mern-prod",
         "JWT_KEY" : "supersecret_dont_share"
         "NODE_VERSION" : "14.20.1" 
     }
