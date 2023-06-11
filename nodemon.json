@@ -4,5 +4,6 @@
         "DB_PASSWORD": "kXTrN9p7sbHIvavi",
         "DB_NAME": "mern",
         "JWT_KEY" : "supersecret_dont_share"
+        "NODE_VERSION" : "14.17.5" 
     }
 }
